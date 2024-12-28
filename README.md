@@ -14,7 +14,7 @@ git clone https://github.com/raohiteshyadav/Khat.git
 cd Khat
 ```
 
-DO THIS IN CASE ENV FILE IS NAMED DIFFERENT
+**DO THIS IN CASE ENV FILE IS NAMED DIFFERENT**
 Now rename env files from .env.example to .env
 ```shell
 cd public
