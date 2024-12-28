@@ -14,7 +14,7 @@ git clone https://github.com/raohiteshyadav/Khat.git
 cd Khat
 ```
 
-**DO THIS IN CASE ENV FILE IS NAMED DIFFERENT**
+**DO THIS IN CASE ENV FILE IS NAMED DIFFERENT**<br/>
 Now rename env files from .env.example to .env
 ```shell
 cd public
@@ -33,7 +33,7 @@ cd ..
 cd public
 yarn
 ```
-We are almost done, Now just start the development server.
+We are almost done, Now just start the development server.<br/>
 **For Frontend.**
 ```shell
 cd public
