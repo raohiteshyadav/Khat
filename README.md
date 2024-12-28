@@ -10,8 +10,8 @@ Khat is chat application build with the power of MERN STACK.
 Both should be installed and make sure mongodb is running.
 
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
+git clone https://github.com/raohiteshyadav/Khat.git
+cd Khat
 ```
 
 DO THIS IN CASE ENV FILE IS NAMED DIFFERENT
